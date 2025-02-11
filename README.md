@@ -30,4 +30,4 @@ Apart from some UI changes, the retrieved information are explained [here (HTTP)
 - [ ] Code the application using a proper (multiplatform) programming language (Flutter)
 - [ ] Redesign the UI 
 - [ ] Allow the application to display ranking and energy saving tips
-
+- [ ] Allow the user to specify preferences and custom routines
