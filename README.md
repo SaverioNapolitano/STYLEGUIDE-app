@@ -6,7 +6,7 @@ Files for downloading or customizing the mobile app of the [STYLEGUIDE](https://
 > Currently the app works only for Android devices. 
 
 > [!CAUTION]
-> Prior to using the app you have to change the MQTT broker and REST server addresses by modifying the `.aia` file. 
+> Prior to using the app you have to change the MQTT broker and REST server addresses in the settings screen of the app (basic changes) or by modifying the `.aia` file (deeper changes). 
 
 ## Purpose 
 
