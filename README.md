@@ -25,7 +25,7 @@ Apart from some UI changes, the retrieved information are explained [here (HTTP)
 Besides, through the app the user can specify whether they want to enable or disable the auto mode.
 
 > [!NOTE]
-> Due to this app being just a prototype and considered the obstacles faced during its development, it doesn't allow the user to see the neither the energy savers ranking nor the energy saving tips. Please refer to the server repo for those.
+> Due to this app being just a prototype and considered the obstacles faced during its development, it doesn't allow the user to see neither the energy savers ranking nor the energy saving tips. Please refer to the server repo for those.
 
 ## Further improvements 
 
