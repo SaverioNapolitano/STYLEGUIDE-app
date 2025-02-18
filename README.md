@@ -16,11 +16,11 @@ It also allows them to see what colors they use the most along with their most u
 
 ## How it works 
 
-Information about current light status, color and intensity (both incoming and outgoing) and number of people in the room (only incoming) are handled using MQTT protocol. 
+Information about current light status, color and intensity (outgoing) are handled using MQTT protocol. 
 
 All the other information are only incoming and use HTTP protocol to send requests to the [server](https://github.com/SaverioNapolitano/STYLEGUIDE-server.git)
 
-Apart from some UI changes, the retrieved information are explained [here (HTTP)](https://github.com/SaverioNapolitano/STYLEGUIDE-server?tab=readme-ov-file#http-client) and [here (MQTT)](https://github.com/SaverioNapolitano/STYLEGUIDE-bridge?tab=readme-ov-file#mqtt)
+Apart from some UI changes, the retrieved information are explained [here (HTTP)](https://github.com/SaverioNapolitano/STYLEGUIDE-server?tab=readme-ov-file#http-client).
 
 Besides, through the app the user can specify whether they want to enable or disable the auto mode.
 
